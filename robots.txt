@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://trick32.by/sitemap.xml
+Host: trick32.by
